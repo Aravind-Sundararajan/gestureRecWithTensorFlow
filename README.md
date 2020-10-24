@@ -1,5 +1,5 @@
 # gestureRecWithTensorFlow
-Generate some synthetic kinematics data and use tensorflow to determine if a motion is an elbow flexion or extension.
+Generate some synthetic kinematics data and use tensorflow to determine if a motion is an elbow flexion or extension from the joint angle in degrees.
 set up TensorFlow with anaconda, install pandas and run with
 
 ```
